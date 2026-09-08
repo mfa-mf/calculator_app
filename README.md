@@ -1,17 +1,32 @@
-# app1
+# Calculator Soft UI App 📱
 
-A new Flutter project.
+تطبيق حاسبة متطور تم بناؤه باستخدام **Flutter**، يتميز بتصميم **Soft UI (Neumorphism)** العصري والمريح للعين.
 
-## Getting Started
+## 🌟 المميزات
+- **تصميم عصري:** واجهة مستخدم تعتمد على أسلوب الـ Soft UI مع ظلال ناعمة وتفاعل بصري.
+- **ألوان احترافية:** استخدام لوحة ألوان "Modern Dark Premium" (رمادي ليلي، أزرق ملكي، وألوان مخصصة لكل عملية).
+- **عمليات شاملة:** يدعم الجمع، الطرح، الضرب، القسمة، والنسبة المئوية.
+- **تفاعل ذكي:** زر **CLEAR** دائري مميز بحدود حمراء متوهجة لتصفير العمليات.
 
-This project is a starting point for a Flutter application.
+## 🎨 لغات التصميم المستخدمة
+- **Background:** Dark Charcoal (`#17171C`)
+- **Action Buttons:** Royal Blue (`#4B5EFC`)
+- **Clear Button:** Neon Red Border
+- **Typography:** Bold Geometric Sans-Serif
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 كيف تبدأ؟
+1. تأكد من تثبيت Flutter على جهازك.
+2. قم بعمل Clone للمستودع:
+   ```bash
+   git clone https://github.com/mfa-mf/calculator_app.git
+   ```
+3. قم بتشغيل التطبيق:
+   ```bash
+   flutter run
+   ```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 لقطات من التطبيق
+*(يمكنك إضافة صور التطبيق هنا لاحقاً)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+تم التطوير بواسطة [mfa-mf](https://github.com/mfa-mf) 🚀
